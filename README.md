@@ -1,0 +1,1 @@
+File organization tool - it will move files in given directory to subdirectories which will match file extension. Subdirecories will be created if they do not exist. Script utilized **mkdir** and **mv** comands, because I wanted to play a bit with subprocess module. Therefore script is NOT crosplatform(as if anyone will ever use it :)) 
